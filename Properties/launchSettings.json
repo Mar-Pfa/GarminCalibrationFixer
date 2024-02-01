@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GarminCalibrationFixer": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
